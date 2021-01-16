@@ -40,5 +40,5 @@ Unity uses C# and that's easy to learn and similar to javascript. And even unity
 <Strong>Setting Up Unity</Strong>
 When you open unity hub you will be seeing this screen.
 
-![GitHub Logo](/img/images(12).png)
+![GitHub Logo](/img/images (12).png)
 Format: ![Alt Text](url)
