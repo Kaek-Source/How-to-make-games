@@ -32,7 +32,6 @@ Unity uses C# and that's easy to learn and similar to javascript. And even unity
 <Strong>How do we install Unity:</Strong>
 ```
 • Visit unity website ( https://store.unity.com/ ) for installing unity hub and unity editor.
-```
-```
-Create your Unity ID and install unity!!
+
+• Create your Unity ID and install unity!!
 ```
