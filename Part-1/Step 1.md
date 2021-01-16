@@ -42,3 +42,5 @@ Unity uses C# and that's easy to learn and similar to javascript. And even unity
 When you open unity hub you will be seeing this screen.
 
 ![Screenshot](./img/Unity_hp.png)
+
+Click on **New** to make a new project our your very first game in unity.
