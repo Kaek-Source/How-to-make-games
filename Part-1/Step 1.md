@@ -6,9 +6,11 @@ Unity uses C# and that's easy to learn and similar to javascript. And even unity
 
 <Strong>Advantage of Unity:</Strong>
 
-```• Platforms support:
+```
+• Platforms support:
 
-  • The engine is highly preferred for its extended support to 27 platforms. The app developed and deployed can be easily shared between PC, web and mobile platforms.```
+  • The engine is highly preferred for its extended support to 27 platforms. The app developed and deployed can be easily shared between PC, web and mobile platforms.
+```
 
 • Graphics:
 
