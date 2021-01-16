@@ -17,4 +17,5 @@ Unity uses C# and that's easy to learn and similar to javascript. And even unity
   • The debugging and tweaking is amazingly easier with Unity game development because all the game variables are displayed during gameplay, which in turn allow the developers to debug the process at runtime.
 
 
-
+𝗛𝗼𝘄 𝗱𝗼 𝘄𝗲 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝘂𝗻𝗶𝘁𝘆:
+ 
