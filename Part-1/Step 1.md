@@ -44,3 +44,7 @@ When you open unity hub you will be seeing this screen.
 ![Screenshot](./img/Unity_hp.png)
 
 Click on **New** to make a new project our your very first game in unity.
+
+A new window opens up similar to this.
+
+![Screenshot](./img/Unity_prp.png)
