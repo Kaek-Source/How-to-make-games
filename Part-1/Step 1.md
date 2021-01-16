@@ -40,4 +40,4 @@ Unity uses C# and that's easy to learn and similar to javascript. And even unity
 <Strong>Setting Up Unity</Strong>
 When you open unity hub you will be seeing this screen.
 
-![alt text](https://github.com/Kaek/How-to-make-games/blob/main/images (12).png?raw=true)
+![alt text](https://github.com/Kaek/How-to-make-games/blob/main/images.png?raw=true)
