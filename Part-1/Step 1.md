@@ -48,3 +48,5 @@ Click on **New** to make a new project our your very first game in unity.
 A new window opens up similar to this.
 
 ![Screenshot](./img/unity_prp.png)
+
+Select **3D** and name ur project and save the project to your desired directory and click **Create**
