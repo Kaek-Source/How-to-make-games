@@ -7,4 +7,4 @@ Part 1 is all about instructions stuffs!
 - Working on the layouts.
 - Creating our first cube in unity!.
 
-_ And that's it.
+And that's it.
