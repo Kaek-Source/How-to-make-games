@@ -54,3 +54,5 @@ Select **3D** and name ur project and save the project to your desired directory
 
 And that makes a new project, and a new editor pops up.
 Here where we will work on our very one project.
+
+<Strong>Working on the layouts</Strong>
