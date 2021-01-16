@@ -2,7 +2,7 @@ Hi there 👋🏻,
 
 In this tutorial on how to make a games. We will be using unity Game Engine and Visual Studio Code for coding in C#.
 
-Unity uses C# and that's easy to learn and similar to javascript. And even unity supports javascript too
+Unity uses C# and that's easy to learn and similar to java. And even unity supports javascript too
 
 <Strong>Advantage of Unity:</Strong>
 
