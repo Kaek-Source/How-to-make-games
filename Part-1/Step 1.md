@@ -35,3 +35,10 @@ Unity uses C# and that's easy to learn and similar to javascript. And even unity
 
 • Create your Unity ID and install unity!!
 ```
+
+
+<Strong>Setting Up Unity</Strong>
+When you open unity hub you will be seeing this screen.
+
+![GitHub Logo](/img/logo.png)
+Format: ![Alt Text](url)
