@@ -50,3 +50,7 @@ A new window opens up similar to this.
 ![Screenshot](./img/unity_prp.png)
 
 Select **3D** and name ur project and save the project to your desired directory and click **Create**
+
+
+And that makes a new project, and a new editor pops up.
+Here where we will work on our very one project.
